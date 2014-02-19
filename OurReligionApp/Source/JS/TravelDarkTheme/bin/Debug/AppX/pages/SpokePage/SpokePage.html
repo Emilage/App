@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SpokePage</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/SpokePage/SpokePage.css" rel="stylesheet" />
+    <script src="/js/SpokeData.js"></script>
+    <script src="/pages/SpokePage/SpokePage.js"></script>
+</head>
+<body>
+    <!-- These templates are used to display each item in the ListView declared below. -->
+    <div class="headertemplate" data-win-control="WinJS.Binding.Template">
+        <button class="group-header win-type-x-large win-type-interactive" data-win-bind="groupKey: key">
+            <span class="group-title win-type-ellipsis" data-win-bind="textContent: title"></span>
+        </button>
+    </div>
+
+    <div class="itemtemplate" data-win-control="WinJS.Binding.Template">
+        <div class="item">
+            <img class="item-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
+            <div class="item-overlay">
+                <h4 class="item-title" data-win-bind="textContent: title"></h4>
+                <h6 class="item-subtitle win-type-ellipsis" data-win-bind="textContent: subtitle"></h6>
+            </div>
+        </div>
+    </div>
+
+    <!-- Variable Tile Template. -->
+
+    <div class="BigBoxTemplate" data-win-control="WinJS.Binding.Template">
+        <div class="BigTemplate">
+            <img class="BigImage" src="#" data-win-bind="src: backgroundImage; alt: title" />
+            <div class="BigTitle" data-win-bind="textContent: title"></div>
+            <div class="BigSubtitle" data-win-bind="textContent: subtitle"></div>
+        </div>
+    </div>
+
+    <div class="MediumBoxTemplate" data-win-control="WinJS.Binding.Template">
+        <div class="MediumTemplate">
+            <img class="MediumImage" src="#" data-win-bind="src: backgroundImage; alt: title" />
+            <div class="MediumTitle" data-win-bind="textContent: title"></div>
+            <div class="MediumSubtitle" data-win-bind="textContent: subtitle"></div>
+        </div>
+    </div>
+
+    <div class="SmallBoxTemplate" data-win-control="WinJS.Binding.Template">
+        <div class="SmallTemplate">
+            <img class="SmallImage" src="#" data-win-bind="src: backgroundImage; alt: title" />
+            <div class="SmallTitle" data-win-bind="textContent: title"></div>
+            <div class="SmallSubtitle" data-win-bind="textContent: subtitle"></div>
+        </div>
+    </div>
+
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment SpokePage">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Travel Snapshots</span>
+            </h1>
+            <div class="MainDiv" id="MainDiv">
+                <div class="loginDiv">
+                    <div style="float: left;">
+                        <div style="font-size: 13.33px; color: rgba(255,255,255,0.60);">Current Location</div>
+                        <img style="float: left; margin-top: 5px;" src="../../images/Pen.png" />
+                        <div style="font-size: 18.6px; font-weight: 600; margin-top: -2px; margin-left: 6px; float: left;">Mumbai</div>
+                    </div>
+                    <div style="width: 1px; height: 40px; background-color: rgba(255,255,255,0.60); float: left; margin-top: 2px; margin-left: 13px;"></div>
+                </div>
+                <div class="mainlogo">
+                    <img src="../../images/AppLogo.png" />
+                </div>
+            </div>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div class="groupeditemslist win-selectionstylefilled" aria-label="List of groups" data-win-control="WinJS.UI.ListView" data-win-options="{ selectionMode: 'none' }"></div>
+        </section>
+    </div>
+
+    <div id="appbar1" data-win-control="WinJS.UI.AppBar" data-win-options="{placement:'top'}" class="AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand" style="margin-left: 30px;" class="AppBtn2" id="Home">
+            <img src="../../images/AppBar/Home.png" />
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" class="AppBtn2">
+            <img src="../../images/AppBar/PlacesNear.png" />
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" class="AppBtn2">
+            <img src="../../images/AppBar/TopLocation.png" />
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" class="AppBtn2">
+            <img src="../../images/AppBar/IntLocation.png" />
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" class="AppBtn2">
+            <img src="../../images/AppBar/FeatLocation.png" />
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" class="AppBtn2" style="float: right;">
+            <img src="../../images/AppBar/Search.png" />
+        </button>
+    </div>
+
+    <div id="Div1" data-win-control="WinJS.UI.AppBar" data-win-options="{placement:'bottom'}" class="AppBar" style="height: 95px;">
+        <button data-win-control="WinJS.UI.AppBarCommand" style="margin-left: 30px;" class="AppBtn3">
+            <img src="../../images/AppBar/AddFav.png" />
+        </button>
+    </div>
+</body>
+</html>

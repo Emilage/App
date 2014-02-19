@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHELLICOPTER</Machine>
+    <WindowsUser>katmr_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\Travel1.exe">
+      <PackagePath>Travel1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\Travel1.pdb">
+      <PackagePath>Travel1.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\AddFav.png">
+      <PackagePath>Assets\Images\AppBar\AddFav.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\FeatLocation.png">
+      <PackagePath>Assets\Images\AppBar\FeatLocation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\Home.png">
+      <PackagePath>Assets\Images\AppBar\Home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\IntLocation.png">
+      <PackagePath>Assets\Images\AppBar\IntLocation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\PlacesNear.png">
+      <PackagePath>Assets\Images\AppBar\PlacesNear.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\Search.png">
+      <PackagePath>Assets\Images\AppBar\Search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\AppBar\TopLocation.png">
+      <PackagePath>Assets\Images\AppBar\TopLocation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\Destinations1.png">
+      <PackagePath>Assets\Images\HubPage\Destinations1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\Destinations2.png">
+      <PackagePath>Assets\Images\HubPage\Destinations2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\Destinations3.png">
+      <PackagePath>Assets\Images\HubPage\Destinations3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\Destinations4.png">
+      <PackagePath>Assets\Images\HubPage\Destinations4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\FeaturedLoc1.png">
+      <PackagePath>Assets\Images\HubPage\FeaturedLoc1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\FeaturedLoc2.png">
+      <PackagePath>Assets\Images\HubPage\FeaturedLoc2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\International.png">
+      <PackagePath>Assets\Images\HubPage\International.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\International2.png">
+      <PackagePath>Assets\Images\HubPage\International2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\International3.png">
+      <PackagePath>Assets\Images\HubPage\International3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\PlacesNear.png">
+      <PackagePath>Assets\Images\HubPage\PlacesNear.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\PlacesNear2.png">
+      <PackagePath>Assets\Images\HubPage\PlacesNear2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\PlacesNear3.png">
+      <PackagePath>Assets\Images\HubPage\PlacesNear3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\PlacesNear4.png">
+      <PackagePath>Assets\Images\HubPage\PlacesNear4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\PlacesNear5.png">
+      <PackagePath>Assets\Images\HubPage\PlacesNear5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\PlacesNear6.png">
+      <PackagePath>Assets\Images\HubPage\PlacesNear6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\ByAir.png">
+      <PackagePath>Assets\Images\Spoke\ByAir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\ByAir2.png">
+      <PackagePath>Assets\Images\Spoke\ByAir2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\ByRail.png">
+      <PackagePath>Assets\Images\Spoke\ByRail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\ByRail2.png">
+      <PackagePath>Assets\Images\Spoke\ByRail2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\ByRoad.png">
+      <PackagePath>Assets\Images\Spoke\ByRoad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\ByRoad2.png">
+      <PackagePath>Assets\Images\Spoke\ByRoad2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\DetailImg1.png">
+      <PackagePath>Assets\Images\Spoke\DetailImg1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\DetailImg2.png">
+      <PackagePath>Assets\Images\Spoke\DetailImg2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\Others1.png">
+      <PackagePath>Assets\Images\Spoke\Others1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\Others2.png">
+      <PackagePath>Assets\Images\Spoke\Others2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\Others3.png">
+      <PackagePath>Assets\Images\Spoke\Others3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\Others4.png">
+      <PackagePath>Assets\Images\Spoke\Others4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\recommended1.png">
+      <PackagePath>Assets\Images\Spoke\recommended1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\recommended2.png">
+      <PackagePath>Assets\Images\Spoke\recommended2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\Spoke\recommended3.png">
+      <PackagePath>Assets\Images\Spoke\recommended3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\MainLogo.png">
+      <PackagePath>Assets\MainLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\MainLogoBlack.png">
+      <PackagePath>Assets\MainLogoBlack.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Pen.png">
+      <PackagePath>Assets\Pen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\widelogo.png">
+      <PackagePath>Assets\widelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\BigLiveTile1.jpg">
+      <PackagePath>Assets\Images\BigLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\BigLiveTile2.jpg">
+      <PackagePath>Assets\Images\BigLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\candles.jpg">
+      <PackagePath>Assets\Images\HubPage\candles.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\jesusPraying.jpg">
+      <PackagePath>Assets\Images\HubPage\jesusPraying.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\OpenBible.jpg">
+      <PackagePath>Assets\Images\HubPage\OpenBible.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\Payers.jpg">
+      <PackagePath>Assets\Images\HubPage\Payers.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\pope.jpg">
+      <PackagePath>Assets\Images\HubPage\pope.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\rosary.jpg">
+      <PackagePath>Assets\Images\HubPage\rosary.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\tenComm.jpg">
+      <PackagePath>Assets\Images\HubPage\tenComm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\vatican.jpg">
+      <PackagePath>Assets\Images\HubPage\vatican.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\SmallLiveTile1.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\SmallLiveTile2.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\Chalice.jpe">
+      <PackagePath>Assets\Images\HubPage\Chalice.jpe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\churchHymns.jpe">
+      <PackagePath>Assets\Images\HubPage\churchHymns.jpe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\easterHolyDay.jpe">
+      <PackagePath>Assets\Images\HubPage\easterHolyDay.jpe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\hymnSheet.jpe">
+      <PackagePath>Assets\Images\HubPage\hymnSheet.jpe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\Assets\Images\HubPage\passage.jpe">
+      <PackagePath>Assets\Images\HubPage\passage.jpe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\SearchResultsPage1.xaml">
+      <PackagePath>SearchResultsPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\SettingsFlyouts\AboutUs.xaml">
+      <PackagePath>SettingsFlyouts\AboutUs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\SettingsFlyouts\ContactUs.xaml">
+      <PackagePath>SettingsFlyouts\ContactUs.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\SettingsFlyouts\LoginPage.xaml">
+      <PackagePath>SettingsFlyouts\LoginPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\SettingsFlyouts\PrivacyPolicy.xaml">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\SettingsFlyouts\TermsAndConditions.xaml">
+      <PackagePath>SettingsFlyouts\TermsAndConditions.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\DetailPage.xaml">
+      <PackagePath>DetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\Spoke.xaml">
+      <PackagePath>Spoke.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\HubPage.xaml">
+      <PackagePath>HubPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\C#\TravelDarkTheme\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

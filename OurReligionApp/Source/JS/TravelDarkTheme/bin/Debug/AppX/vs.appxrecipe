@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHELLICOPTER</Machine>
+    <WindowsUser>katmr_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>DA0C5C21B2D3C0494B162ED74D9C8B3F65E5B7C06BE19B03EDB5A1A983790E4D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>003c1928-f116-44cc-a56c-105b38b44f9c_1.0.0.0_neutral__95skj2fw7drd4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>003c1928-f116-44cc-a56c-105b38b44f9c_95skj2fw7drd4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>003c1928-f116-44cc-a56c-105b38b44f9c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Perumal</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-12T15:40:56.562</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\aboutUs\aboutUs.css">
+      <PackagePath>pages\aboutUs\aboutUs.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\contactUs\contactUs.css">
+      <PackagePath>pages\contactUs\contactUs.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\DetailPage\DetailPage.css">
+      <PackagePath>pages\DetailPage\DetailPage.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\privacyPolicy\privacyPolicy.css">
+      <PackagePath>pages\privacyPolicy\privacyPolicy.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\SearchResult\SearchResult.css">
+      <PackagePath>pages\SearchResult\SearchResult.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\SpokePage\SpokePage.css">
+      <PackagePath>pages\SpokePage\SpokePage.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\termsAndCondition\termsAndCondition.css">
+      <PackagePath>pages\termsAndCondition\termsAndCondition.css</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\AddFav.png">
+      <PackagePath>images\AppBar\AddFav.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\FeatLocation.png">
+      <PackagePath>images\AppBar\FeatLocation.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\Home.png">
+      <PackagePath>images\AppBar\Home.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\IntLocation.png">
+      <PackagePath>images\AppBar\IntLocation.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\PlacesNear.png">
+      <PackagePath>images\AppBar\PlacesNear.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\Search.png">
+      <PackagePath>images\AppBar\Search.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppBar\TopLocation.png">
+      <PackagePath>images\AppBar\TopLocation.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\AppLogo.png">
+      <PackagePath>images\AppLogo.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\Destinations1.png">
+      <PackagePath>images\HubPage\Destinations1.png</PackagePath>
+      <Modified>2013-01-21T12:47:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\Destinations2.png">
+      <PackagePath>images\HubPage\Destinations2.png</PackagePath>
+      <Modified>2013-01-21T12:49:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\Destinations3.png">
+      <PackagePath>images\HubPage\Destinations3.png</PackagePath>
+      <Modified>2013-01-21T12:49:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\Destinations4.png">
+      <PackagePath>images\HubPage\Destinations4.png</PackagePath>
+      <Modified>2013-01-21T12:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\FeaturedLoc1.png">
+      <PackagePath>images\HubPage\FeaturedLoc1.png</PackagePath>
+      <Modified>2013-01-21T12:49:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\FeaturedLoc2.png">
+      <PackagePath>images\HubPage\FeaturedLoc2.png</PackagePath>
+      <Modified>2013-01-21T12:49:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\International.png">
+      <PackagePath>images\HubPage\International.png</PackagePath>
+      <Modified>2013-01-21T12:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\International2.png">
+      <PackagePath>images\HubPage\International2.png</PackagePath>
+      <Modified>2013-01-21T12:49:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\International3.png">
+      <PackagePath>images\HubPage\International3.png</PackagePath>
+      <Modified>2013-01-21T12:47:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\PlacesNear.png">
+      <PackagePath>images\HubPage\PlacesNear.png</PackagePath>
+      <Modified>2013-01-21T12:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\PlacesNear2.png">
+      <PackagePath>images\HubPage\PlacesNear2.png</PackagePath>
+      <Modified>2013-01-21T12:49:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\PlacesNear3.png">
+      <PackagePath>images\HubPage\PlacesNear3.png</PackagePath>
+      <Modified>2013-01-21T12:49:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\PlacesNear4.png">
+      <PackagePath>images\HubPage\PlacesNear4.png</PackagePath>
+      <Modified>2013-01-21T12:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\PlacesNear5.png">
+      <PackagePath>images\HubPage\PlacesNear5.png</PackagePath>
+      <Modified>2013-01-21T12:49:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\HubPage\PlacesNear6.png">
+      <PackagePath>images\HubPage\PlacesNear6.png</PackagePath>
+      <Modified>2013-01-21T12:49:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Pen.png">
+      <PackagePath>images\Pen.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\smallscreen.png">
+      <PackagePath>images\smallscreen.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\ByAir.png">
+      <PackagePath>images\Spoke\ByAir.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\ByAir2.png">
+      <PackagePath>images\Spoke\ByAir2.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\ByRail.png">
+      <PackagePath>images\Spoke\ByRail.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\ByRail2.png">
+      <PackagePath>images\Spoke\ByRail2.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\ByRoad.png">
+      <PackagePath>images\Spoke\ByRoad.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\ByRoad2.png">
+      <PackagePath>images\Spoke\ByRoad2.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\DetailImg1.png">
+      <PackagePath>images\Spoke\DetailImg1.png</PackagePath>
+      <Modified>2013-01-21T12:47:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\DetailImg2.png">
+      <PackagePath>images\Spoke\DetailImg2.png</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\Others1.png">
+      <PackagePath>images\Spoke\Others1.png</PackagePath>
+      <Modified>2013-01-21T12:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\Others2.png">
+      <PackagePath>images\Spoke\Others2.png</PackagePath>
+      <Modified>2013-01-21T12:47:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\Others3.png">
+      <PackagePath>images\Spoke\Others3.png</PackagePath>
+      <Modified>2013-01-21T12:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\Others4.png">
+      <PackagePath>images\Spoke\Others4.png</PackagePath>
+      <Modified>2013-01-21T12:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\recommended1.png">
+      <PackagePath>images\Spoke\recommended1.png</PackagePath>
+      <Modified>2013-01-21T12:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\recommended2.png">
+      <PackagePath>images\Spoke\recommended2.png</PackagePath>
+      <Modified>2013-01-21T12:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\Spoke\recommended3.png">
+      <PackagePath>images\Spoke\recommended3.png</PackagePath>
+      <Modified>2013-01-21T12:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\widelogo.png">
+      <PackagePath>images\widelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\BigLiveTile1.jpg">
+      <PackagePath>images\BigLiveTile1.jpg</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\BigLiveTile2.jpg">
+      <PackagePath>images\BigLiveTile2.jpg</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\SmallLiveTile1.jpg">
+      <PackagePath>images\SmallLiveTile1.jpg</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\images\SmallLiveTile2.jpg">
+      <PackagePath>images\SmallLiveTile2.jpg</PackagePath>
+      <Modified>2012-12-05T10:30:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-12-05T10:35:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\js\DetailData.js">
+      <PackagePath>js\DetailData.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\js\SearchData.js">
+      <PackagePath>js\SearchData.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\js\SpokeData.js">
+      <PackagePath>js\SpokeData.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\aboutUs\aboutUs.js">
+      <PackagePath>pages\aboutUs\aboutUs.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\contactUs\contactUs.js">
+      <PackagePath>pages\contactUs\contactUs.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\DetailPage\DetailPage.js">
+      <PackagePath>pages\DetailPage\DetailPage.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2013-02-06T14:34:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\privacyPolicy\privacyPolicy.js">
+      <PackagePath>pages\privacyPolicy\privacyPolicy.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\SearchResult\SearchResult.js">
+      <PackagePath>pages\SearchResult\SearchResult.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\SpokePage\SpokePage.js">
+      <PackagePath>pages\SpokePage\SpokePage.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\termsAndCondition\termsAndCondition.js">
+      <PackagePath>pages\termsAndCondition\termsAndCondition.js</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\aboutUs\aboutUs.html">
+      <PackagePath>pages\aboutUs\aboutUs.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\contactUs\contactUs.html">
+      <PackagePath>pages\contactUs\contactUs.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\DetailPage\DetailPage.html">
+      <PackagePath>pages\DetailPage\DetailPage.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-01-03T19:25:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\privacyPolicy\privacyPolicy.html">
+      <PackagePath>pages\privacyPolicy\privacyPolicy.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\SearchResult\SearchResult.html">
+      <PackagePath>pages\SearchResult\SearchResult.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\SpokePage\SpokePage.html">
+      <PackagePath>pages\SpokePage\SpokePage.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\pages\termsAndCondition\termsAndCondition.html">
+      <PackagePath>pages\termsAndCondition\termsAndCondition.html</PackagePath>
+      <Modified>2012-12-05T10:30:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\katmr_000\Desktop\Travel Dark Theme v.1.0.0.0\Source\JS\TravelDarkTheme\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-12T15:40:56.468</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

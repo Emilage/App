@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="003c1928-f116-44cc-a56c-105b38b44f9c" Version="1.0.0.0" Publisher="CN=Perumal" />
+  <Properties>
+    <DisplayName>TravelDarkTheme</DisplayName>
+    <PublisherDisplayName>Sample Template</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="TravelDarkTheme" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="TravelDarkTheme" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile WideLogo="images\widelogo.png" ShortName="Travel Dark Theme" ShowName="allLogos" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.search" />
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
